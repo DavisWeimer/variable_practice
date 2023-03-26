@@ -8,3 +8,5 @@ hours_slept = 6
 stress_level = 5
 tolerable_stress_level = 8
 
+funny_number = 420.69
+depth_of_the_Mariana_Trench_meters = 11033.61
