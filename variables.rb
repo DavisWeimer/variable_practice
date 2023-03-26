@@ -9,4 +9,8 @@ stress_level = 5
 tolerable_stress_level = 8
 
 funny_number = 420.69
-depth_of_the_Mariana_Trench_meters = 11033.61
+mariana_Trench_depth_meters = 11033.61
+
+email_address_valid = false
+password_length = true
+
